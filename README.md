@@ -4,7 +4,7 @@
 **>>>** 📌 **Project Overview**
 This project presents an interactive HR Analytics Dashboard built in Power BI to analyze employee data and workforce trends. The dashboard provides actionable insights into employee attrition, job satisfaction, demographics, salary distribution, and overall HR performance.
 
-**>>>** 📊** Key Features**
+**>>>** 📊**Key Features**
 - Employee Attrition Analysis
 - Department-wise Employee Distribution
 - Gender Diversity Analysis
